@@ -39,3 +39,12 @@ https://www.webdesignrankings.com/resources/px-em/
 The trick to viewport units on mobile | CSS-Tricks
 
 https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+
+
+
+
+# Références `calc()`
+
+calc() - CSS: Cascading Style Sheets | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/calc
