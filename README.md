@@ -38,10 +38,8 @@ https://www.webdesignrankings.com/resources/px-em/
 
 The trick to viewport units on mobile | CSS-Tricks
 
-https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
-
-
-
+https://css-tricks.com/the-trick-to-viewport-units-on-mobile/  
+<br/><br/>
 
 # Références `calc()`
 
